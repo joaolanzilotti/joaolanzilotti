@@ -36,7 +36,7 @@
 	
 <div align="center" class="Gallery">
 
-<a href="https://github.com/joaosinho2/Cadastro-e-Login-Java" target="_blank"><img align="center" alt="JP-HTML" height="500" width="450" src="https://user-images.githubusercontent.com/71307203/182430368-0f65ade0-0263-48ca-b5ef-626c08b472e0.png"></a>
+<a href="https://github.com/joaosinho2/Cadastro-e-Login-Java" target="_blank"><img align="center" alt="JP-HTML" height="500" width="450" src="https://user-images.githubusercontent.com/71307203/182462016-8019bbef-3bac-40ca-8846-f9ddcd39dc73.png"></a>
 	<br>
 	<br>
 <a href="https://github.com/joaosinho2/Cadastro-e-Login-Java" target="_blank"><img align="center" alt="JP-HTML" height="100" width="100" src="https://cdn-icons-png.flaticon.com/512/226/226777.png"></a>
