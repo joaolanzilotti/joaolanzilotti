@@ -7,11 +7,14 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="JP-Js" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-    <img align="center" alt="JP-Python" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="JP-HTML" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="JP-CSS" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="JP-Python" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+<img align="center" alt="JP-JAVA" height="40" width="50" src="https://cdn-icons-png.flaticon.com/512/226/226777.png">
+    <img align="center" alt="JP-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="JP-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="JP-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="JP-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+<img align="center" alt="JP-REACT" height="40" width="50" src="https://cdn-icons-png.flaticon.com/512/1126/1126012.png">
+<img align="center" alt="JP-SPRING" height="40" width="50" src="https://dzone.com/storage/temp/12434118-spring-boot-logo.png">
+<img align="center" alt="JP-TYPESCRIPT" height="40" width="50" src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png">
 </div>
 
 ##
