@@ -30,6 +30,29 @@
 
 <div align="center" class="Header">
 <h1><img align="center" alt="JP-HTML" height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/6528/6528734.png"> Os Melhores Projetos <img align="center" alt="JP-HTML" height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/6528/6528734.png"></h1>
+	
+<h3>Sistema Ordens de Serviço - Em Desenvolvimento</h3>
+<p align="center"> <i> Sistema Feito em Java, Spring Boot, Sprint Security, JavaScript, Thymeleaf, BootStrap, JPA, MySQL </i> </p>
+<a href="https://github.com/joaosinho2/pagina-springthymeleaf" target="_blank"><img align="center" alt="JP-JAVA" height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/226/226777.png"></a>
+<a href="https://github.com/joaosinho2/pagina-springthymeleaf" target="_blank">
+<img align="center" alt="JP-SPRINGBOOT" height="50" width="50" src="https://dzone.com/storage/temp/12434118-spring-boot-logo.png"></a>
+<a href="https://github.com/joaosinho2/pagina-springthymeleaf" target="_blank"><img align="center" alt="JP-ThymeLeaf" height="50" width="50" src="https://www.thymeleaf.org/images/thymeleaf.png"></a>
+<a href="https://github.com/joaosinho2/pagina-springthymeleaf" target="_blank"><img align="center" alt="JP-JavaScript" height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png"></a>
+<a href="https://github.com/joaosinho2/pagina-springthymeleaf" target="_blank"><img align="center" alt="JP-BootStrap" height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png"></a>
+<a href="https://github.com/joaosinho2/pagina-springthymeleaf" target="_blank"><img align="center" alt="JP-MySQL" height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/919/919836.png"></a>
+
+</div>
+
+##
+
+<div align="center" class="Gallery">
+
+<a href="https://github.com/joaosinho2/pagina-springthymeleaf" target="_blank"><img align="center" alt="JP-HTML" height="500" width="800" src="https://user-images.githubusercontent.com/71307203/204866280-b317d311-560c-4ddc-a110-9e55471b5d5a.png"></a>
+<br>
+<br>
+
+
+##
 
 <h3>Sistema de Vendas com envio de SMS</h3>
 <p align="center"> <i> Sistema Feito com React, Java, Spring Boot, TypeScript </i> </p>
