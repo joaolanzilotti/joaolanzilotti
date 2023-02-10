@@ -7,14 +7,19 @@
 </div>
 
 <div style="display: inline_block"><br>
-<img align="center" alt="JP-JAVA" height="40" width="50" src="https://cdn-icons-png.flaticon.com/512/226/226777.png">
-    <img align="center" alt="JP-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="JP-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="JP-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="JP-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-<img align="center" alt="JP-REACT" height="40" width="50" src="https://cdn-icons-png.flaticon.com/512/1126/1126012.png">
-<img align="center" alt="JP-SPRING" height="40" width="50" src="https://dzone.com/storage/temp/12434118-spring-boot-logo.png">
-<img align="center" alt="JP-TYPESCRIPT" height="40" width="50" src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png">
+<img align="center" alt="JP-JAVA" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/226/226777.png">
+<img align="center" alt="JP-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<img align="center" alt="JP-JavaScript" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png">
+<img align="center" alt="JP-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<img align="center" alt="JP-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<img align="center" alt="JP-BootStrap" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png">
+<img align="center" alt="JP-mysql" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+<img align="center" alt="JP-sql" height="40" width="30" src="https://raw.githubusercontent.com/toreylittlefield/HackerRank/master/Badges%20and%20Images/SQL%20Icon.png">
+<img align="center" alt="JP-REACT" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/1126/1126012.png">
+<img align="center" alt="JP-SPRING" height="40" width="40" src="https://spring.io/img/logos/spring-initializr.svg">
+<img align="center" alt="JP-TYPESCRIPT" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png">
+<img align="center" alt="JP-AWS" height="40" width="40" src="https://user-images.githubusercontent.com/71307203/218149370-39dd3ad5-11c8-496b-afe8-7579105c3a20.png">
+<img align="center" alt="JP-Linux" height="40" width="40" src="https://img.icons8.com/color/256/linux.png">
 </div>
 
 ##
@@ -35,11 +40,11 @@
 <p align="center"> <i> Sistema Feito em Java, Spring Boot, Sprint Security, JavaScript, Thymeleaf, BootStrap, JPA, MySQL </i> </p>
 <a href="https://github.com/joaosinho2/pagina-springthymeleaf" target="_blank"><img align="center" alt="JP-JAVA" height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/226/226777.png"></a>
 <a href="https://github.com/joaosinho2/pagina-springthymeleaf" target="_blank">
-<img align="center" alt="JP-SPRINGBOOT" height="50" width="50" src="https://dzone.com/storage/temp/12434118-spring-boot-logo.png"></a>
-<a href="https://github.com/joaosinho2/pagina-springthymeleaf" target="_blank"><img align="center" alt="JP-ThymeLeaf" height="50" width="50" src="https://www.thymeleaf.org/images/thymeleaf.png"></a>
-<a href="https://github.com/joaosinho2/pagina-springthymeleaf" target="_blank"><img align="center" alt="JP-JavaScript" height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png"></a>
-<a href="https://github.com/joaosinho2/pagina-springthymeleaf" target="_blank"><img align="center" alt="JP-BootStrap" height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png"></a>
-<a href="https://github.com/joaosinho2/pagina-springthymeleaf" target="_blank"><img align="center" alt="JP-MySQL" height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/919/919836.png"></a>
+<img align="center" alt="JP-SPRINGBOOT" height="40" width="40" src="https://dzone.com/storage/temp/12434118-spring-boot-logo.png"></a>
+<a href="https://github.com/joaosinho2/pagina-springthymeleaf" target="_blank"><img align="center" alt="JP-ThymeLeaf" height="40" width="40" src="https://www.thymeleaf.org/images/thymeleaf.png"></a>
+<a href="https://github.com/joaosinho2/pagina-springthymeleaf" target="_blank"><img align="center" alt="JP-JavaScript" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png"></a>
+<a href="https://github.com/joaosinho2/pagina-springthymeleaf" target="_blank"><img align="center" alt="JP-BootStrap" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png"></a>
+<a href="https://github.com/joaosinho2/pagina-springthymeleaf" target="_blank"><img align="center" alt="JP-MySQL" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/919/919836.png"></a>
 
 </div>
 
@@ -53,14 +58,37 @@
 
 
 ##
+	
+<h3>Spring API - Cadastro Pessoas</h3>
+<p align="center"> <i> Sistema Feito em Java, Spring Boot, Spring RestFul, JSON, JPA, H2-DataBase </i> </p>
+<a href="https://github.com/joaosinho2/Spring-API" target="_blank"><img align="center" alt="JP-JAVA" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/226/226777.png"></a>
+<a href="https://github.com/joaosinho2/Spring-API" target="_blank">
+<img align="center" alt="JP-SPRINGBOOT" height="40" width="40" src="https://dzone.com/storage/temp/12434118-spring-boot-logo.png"></a>
+	<a href="https://github.com/joaosinho2/Spring-API" target="_blank">
+<img align="center" alt="JP-JSON" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/617/617464.png"></a>
+
+</div>
+
+
+
+##
+
+<div align="center" class="Gallery">
+
+<a href="https://github.com/joaosinho2/Spring-API" target="_blank"><img align="center" alt="JP-HTML" height="500" width="800" src="https://user-images.githubusercontent.com/71307203/218142885-cf8e98bd-3185-4b42-a482-bb07262ff8f2.png"></a>
+<br>
+<br>
+
+
+##
 
 <h3>Sistema de Vendas com envio de SMS</h3>
 <p align="center"> <i> Sistema Feito com React, Java, Spring Boot, TypeScript </i> </p>
-<a href="https://github.com/joaosinho2/dsmeta" target="_blank"><img align="center" alt="JP-REACT" height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/1126/1126012.png"></a>
+<a href="https://github.com/joaosinho2/dsmeta" target="_blank"><img align="center" alt="JP-REACT" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/1126/1126012.png"></a>
 <a href="https://github.com/joaosinho2/dsmeta" target="_blank">
-<img align="center" alt="JP-JAVA" height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/226/226777.png"></a>
-<a href="https://github.com/joaosinho2/dsmeta" target="_blank"><img align="center" alt="JP-SPRING" height="50" width="50" src="https://dzone.com/storage/temp/12434118-spring-boot-logo.png"></a>
-<a href="https://github.com/joaosinho2/dsmeta" target="_blank"><img align="center" alt="JP-TYPESCRIPT" height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png"></a>
+<img align="center" alt="JP-JAVA" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/226/226777.png"></a>
+<a href="https://github.com/joaosinho2/dsmeta" target="_blank"><img align="center" alt="JP-SPRING" height="40" width="40" src="https://dzone.com/storage/temp/12434118-spring-boot-logo.png"></a>
+<a href="https://github.com/joaosinho2/dsmeta" target="_blank"><img align="center" alt="JP-TYPESCRIPT" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png"></a>
 
 </div>
 
@@ -76,6 +104,8 @@
 ##
 
 <h3>Sistema Crud Feito em Java e MySQL com JPA </h3>
+	<a href="https://github.com/joaosinho2/sistemacrudcompleto" target="_blank"><img align="center" alt="JP-HTML" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/226/226777.png"></a>
+<a href="https://github.com/joaosinho2/sistemacrudcompleto" target="_blank"><img align="center" alt="JP-HTML" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png"></a>
 
 </div>
 
@@ -86,24 +116,23 @@
 <a href="https://github.com/joaosinho2/sistemacrudcompleto" target="_blank"><img align="center" alt="JP-HTML" height="600" width="800" src="https://user-images.githubusercontent.com/71307203/183532976-c1c54a44-d9df-4417-b2b9-c7feabe1149e.png"></a>
 <br>
 <br>
-<a href="https://github.com/joaosinho2/sistemacrudcompleto" target="_blank"><img align="center" alt="JP-HTML" height="100" width="100" src="https://cdn-icons-png.flaticon.com/512/226/226777.png"></a>
-<a href="https://github.com/joaosinho2/sistemacrudcompleto" target="_blank"><img align="center" alt="JP-HTML" height="100" width="100" src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png"></a>
 
 ##
 
 
 <h3>Login e Cadastro Java com JPA</h3>
-
+	<a href="https://github.com/joaosinho2/Cadastro-e-Login-Java" target="_blank"><img align="center" alt="JP-HTML" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/226/226777.png"></a>
+<a href="https://github.com/joaosinho2/Cadastro-e-Login-Java" target="_blank"><img align="center" alt="JP-HTML" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png"></a>
 
 </div>
-	
+<br>
+<br>
 <div align="center" class="Gallery">
 
 <a href="https://github.com/joaosinho2/Cadastro-e-Login-Java" target="_blank"><img align="center" alt="JP-HTML" height="500" width="450" src="https://user-images.githubusercontent.com/71307203/182462016-8019bbef-3bac-40ca-8846-f9ddcd39dc73.png"></a>
 	<br>
 	<br>
-<a href="https://github.com/joaosinho2/Cadastro-e-Login-Java" target="_blank"><img align="center" alt="JP-HTML" height="100" width="100" src="https://cdn-icons-png.flaticon.com/512/226/226777.png"></a>
-<a href="https://github.com/joaosinho2/Cadastro-e-Login-Java" target="_blank"><img align="center" alt="JP-HTML" height="100" width="100" src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png"></a>
+
 
 ##
 
