@@ -15,6 +15,8 @@
 <img align="center" alt="JP-BootStrap" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png">
 <img align="center" alt="JP-mysql" height="60" width="50" src="https://img.icons8.com/color/256/mysql-logo.png">
 <img align="center" alt="JP-sql" height="40" width="30" src="https://raw.githubusercontent.com/toreylittlefield/HackerRank/master/Badges%20and%20Images/SQL%20Icon.png">
+<img align="center" alt="JP-mongoDB" height="40" width="60" src="https://th.bing.com/th/id/OIP.qu59Ux-3m4395lJy46M5iwHaEo?pid=ImgDet&rs=1">
+<img align="center" alt="JP-Oracle" height="40" width="50" src="https://logos-world.net/wp-content/uploads/2020/09/Oracle-Symbol.png">
 <img align="center" alt="JP-REACT" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/1126/1126012.png">
 <img align="center" alt="JP-SPRING" height="40" width="40" src="https://spring.io/img/logos/spring-initializr.svg">
 <img align="center" alt="JP-TYPESCRIPT" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png">
