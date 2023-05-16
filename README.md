@@ -99,7 +99,7 @@
 ##
 	
 <h3>Sistema Cemitério Prefeitura Municipal de Ubatuba</h3>
-<p align="center"> <i> API Feita em Java, JSF, PrimeFaces, XHTML, CSS, JavaScript, MySQL, LDAP, JasperReport </i> </p>
+<p align="center"> <i> Sistemna Feito em Java, JSF, PrimeFaces, XHTML, CSS, JavaScript, MySQL, LDAP, JasperReport </i> </p>
 <a href="http://prefeitura.ubatuba.sp.gov.br:8080/" target="_blank"><img align="center" alt="JP-JAVA" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/226/226777.png"></a>
 <a href="http://prefeitura.ubatuba.sp.gov.br:8080/" target="_blank">
 <img align="center" alt="JP-JSF" height="40" width="60" src="https://gokhan.ozar.net/wp-content/uploads/jsf-logo.jpg?f382e8&f382e8"></a>
