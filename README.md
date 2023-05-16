@@ -98,6 +98,32 @@
 
 ##
 	
+<h3>Sistema Cemitério Prefeitura Municipal de Ubatuba</h3>
+<p align="center"> <i> API Feita em Java, JSF, PrimeFaces, XHTML, CSS, JavaScript, MySQL, LDAP, JasperReport </i> </p>
+<a href="http://prefeitura.ubatuba.sp.gov.br:8080/" target="_blank"><img align="center" alt="JP-JAVA" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/226/226777.png"></a>
+<a href="http://prefeitura.ubatuba.sp.gov.br:8080/" target="_blank">
+<img align="center" alt="JP-JSF" height="40" width="60" src="https://gokhan.ozar.net/wp-content/uploads/jsf-logo.jpg?f382e8&f382e8"></a>
+<a href="http://prefeitura.ubatuba.sp.gov.br:8080/" target="_blank">
+<img align="center" alt="JP-PrimeFaces" height="40" width="70" src="https://www.primefaces.org/showcase/javax.faces.resource/images/primefaces-logo.svg.xhtml?ln=showcase"></a>
+<a href="http://prefeitura.ubatuba.sp.gov.br:8080/" target="_blank">
+<img align="center" alt="JP-JavaScript" height="40" width="40" src="https://img.icons8.com/?size=512&id=108784&format=png"></a>
+
+</div>
+
+
+
+##
+
+<div align="center" class="Gallery">
+	<p>http://prefeitura.ubatuba.sp.gov.br:8080/</p>
+
+<a href="http://prefeitura.ubatuba.sp.gov.br:8080/" target="_blank"><img align="center" alt="JP-HTML" height="600" width="800" src="https://github.com/joaolanzilotti/joaolanzilotti/assets/71307203/04d44f36-c602-46b5-a9e7-f161d1ad80f9"></a>
+<br>
+<br>
+
+
+##
+	
 		
 <h3>Sistema de Ponto - Java Servlet</h3>
 <p align="center"> <i> Sistema de Ponto Feito em Java, Servlet, JavaScript, HTML, CSS, BootStrap e JQuery </i> </p>
