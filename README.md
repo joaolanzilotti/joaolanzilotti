@@ -120,6 +120,26 @@
 <a href="http://prefeitura.ubatuba.sp.gov.br:8080/" target="_blank"><img align="center" alt="JP-HTML" height="600" width="800" src="https://github.com/joaolanzilotti/joaolanzilotti/assets/71307203/04d44f36-c602-46b5-a9e7-f161d1ad80f9"></a>
 <br>
 <br>
+	
+##
+
+<h3>Sistema de Vendas com envio de SMS</h3>
+<p align="center"> <i> Sistema Feito com React, Java, Spring Boot, TypeScript </i> </p>
+<a href="https://github.com/joaolanzilotti/Sistema-de-Vendas-SMS" target="_blank"><img align="center" alt="JP-REACT" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/1126/1126012.png"></a>
+<a href="https://github.com/joaolanzilotti/Sistema-de-Vendas-SMS" target="_blank">
+<img align="center" alt="JP-JAVA" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/226/226777.png"></a>
+<a href="https://github.com/joaolanzilotti/Sistema-de-Vendas-SMS" target="_blank"><img align="center" alt="JP-SPRING" height="40" width="40" src="https://dzone.com/storage/temp/12434118-spring-boot-logo.png"></a>
+<a href="https://github.com/joaolanzilotti/Sistema-de-Vendas-SMS" target="_blank"><img align="center" alt="JP-TYPESCRIPT" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png"></a>
+
+</div>
+
+##
+
+<div align="center" class="Gallery">
+
+<a href="https://github.com/joaolanzilotti/dsmeta" target="_blank"><img align="center" alt="JP-HTML" height="600" width="800" src="https://user-images.githubusercontent.com/71307203/204018410-fcabe45b-e02b-4b18-a12d-c785a0b7c78f.png"></a>
+<br>
+<br>
 
 
 ##
@@ -168,27 +188,6 @@
 <div align="center" class="Gallery">
 
 <a href="https://github.com/joaolanzilotti/projetoservlet" target="_blank"><img align="center" alt="JP-HTML" height="500" width="800" src="https://user-images.githubusercontent.com/71307203/218142885-cf8e98bd-3185-4b42-a482-bb07262ff8f2.png"></a>
-<br>
-<br>
-
-
-##
-
-<h3>Sistema de Vendas com envio de SMS</h3>
-<p align="center"> <i> Sistema Feito com React, Java, Spring Boot, TypeScript </i> </p>
-<a href="https://github.com/joaolanzilotti/dsmeta" target="_blank"><img align="center" alt="JP-REACT" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/1126/1126012.png"></a>
-<a href="https://github.com/joaolanzilotti/dsmeta" target="_blank">
-<img align="center" alt="JP-JAVA" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/226/226777.png"></a>
-<a href="https://github.com/joaolanzilotti/dsmeta" target="_blank"><img align="center" alt="JP-SPRING" height="40" width="40" src="https://dzone.com/storage/temp/12434118-spring-boot-logo.png"></a>
-<a href="https://github.com/joaolanzilotti/dsmeta" target="_blank"><img align="center" alt="JP-TYPESCRIPT" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png"></a>
-
-</div>
-
-##
-
-<div align="center" class="Gallery">
-
-<a href="https://github.com/joaolanzilotti/dsmeta" target="_blank"><img align="center" alt="JP-HTML" height="600" width="800" src="https://user-images.githubusercontent.com/71307203/204018410-fcabe45b-e02b-4b18-a12d-c785a0b7c78f.png"></a>
 <br>
 <br>
 
