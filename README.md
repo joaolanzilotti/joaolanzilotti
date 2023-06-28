@@ -61,10 +61,30 @@
 
 ##
 
+<h3>Sistema Cadastro de Clientes Web</h3>
+<p align="center"> <i> Sistema Feito em React.js, Node.js, Javascript, HTML, CSS e AXIOS </i> </p>
+<a href="https://github.com/joaolanzilotti/register-clients-with-reactjs-and-springboot" target="_blank"><img align="center" alt="JP-React" height="40" width="40" src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png"></a>
+<a href="https://github.com/joaolanzilotti/register-clients-with-reactjs-and-springboot" target="_blank">
+<img align="center" alt="JP-Nodejs" height="40" width="40" src="https://innovationyourself.com/wp-content/uploads/2020/08/nodejs-logo-752x440.png"></a>
+<a href="https://github.com/joaolanzilotti/register-clients-with-reactjs-and-springboot" target="_blank"><img align="center" alt="JP-JavaScript" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png"></a>
+
+</div>
+
+##
+
+<div align="center" class="Gallery">
+<p>https://sistema-cliente.web.app/</p>
+
+<a href="https://github.com/joaolanzilotti/register-clients-with-reactjs-and-springboot" target="_blank"><img align="center" alt="JP-HTML" height="500" width="800" src="https://github.com/joaolanzilotti/joaolanzilotti/assets/71307203/24e6e5d2-98a1-49a0-b34f-935f9b1991f9"></a>
+<br>
+<br>
+
+##
+
 	
 <h3>Sistema API de Clientes</h3>
 <p align="center"> <i> API Feita em Java, Spring Boot, Spring RestFul, Spring Security JWT, JSON, YAML, XML, JPA, MySQL, Rest Assured, JUnit, Mockito, Test Container, Docker, AWS, Hateoas, Swagger e FlyWay </i> </p>
-<a href="[https://github.com/joaolanzilotti/api-client](https://github.com/joaolanzilotti/register-clients-with-reactjs-and-springboot)" target="_blank"><img align="center" alt="JP-JAVA" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/226/226777.png"></a>
+<a href="https://github.com/joaolanzilotti/register-clients-with-reactjs-and-springboot" target="_blank"><img align="center" alt="JP-JAVA" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/226/226777.png"></a>
 <a href="https://github.com/joaolanzilotti/register-clients-with-reactjs-and-springboot" target="_blank">
 <img align="center" alt="JP-SPRINGBOOT" height="40" width="40" src="https://dzone.com/storage/temp/12434118-spring-boot-logo.png"></a>
 	<a href="https://github.com/joaolanzilotti/register-clients-with-reactjs-and-springboot" target="_blank">
@@ -91,10 +111,31 @@
 <div align="center" class="Gallery">
 	<p>http://ec2-3-80-26-121.compute-1.amazonaws.com/swagger-ui/index.html</p>
 
-<a href="https://github.com/joaolanzilotti/api-client" target="_blank"><img align="center" alt="JP-HTML" height="500" width="800" src="https://github.com/joaolanzilotti/joaolanzilotti/assets/71307203/058acd39-4e3a-4bb8-b284-01b792de9008"></a>
+<a href="https://github.com/joaolanzilotti/register-clients-with-reactjs-and-springboot" target="_blank"><img align="center" alt="JP-HTML" height="500" width="800" src="https://github.com/joaolanzilotti/joaolanzilotti/assets/71307203/058acd39-4e3a-4bb8-b284-01b792de9008"></a>
 <br>
 <br>
 
+
+##
+
+<h3>Sistema Clone do TikTok</h3>
+<p align="center"> <i> Sistema Feito em React.js, Node.js, Javascript, HTML, CSS e Firebase </i> </p>
+<a href="https://github.com/joaolanzilotti/tiktok" target="_blank"><img align="center" alt="JP-React" height="40" width="40" src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png"></a>
+<a href="https://github.com/joaolanzilotti/tiktok" target="_blank">
+<img align="center" alt="JP-Nodejs" height="40" width="40" src="https://innovationyourself.com/wp-content/uploads/2020/08/nodejs-logo-752x440.png"></a>
+<a href="https://github.com/joaolanzilotti/tiktok" target="_blank"><img align="center" alt="JP-JavaScript" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png"></a>
+
+</div>
+
+
+##
+
+<div align="center" class="Gallery">
+<p>https://tiktok---jp.web.app/</p>
+
+<a href="https://github.com/joaolanzilotti/tiktok" target="_blank"><img align="center" alt="JP-HTML" height="550" width="550" src="https://github.com/joaolanzilotti/joaolanzilotti/assets/71307203/8aaaabf0-e713-484b-9247-c875c7b9db61"></a>
+<br>
+<br>
 
 ##
 	
