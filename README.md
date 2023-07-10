@@ -7,7 +7,6 @@
 </div>
 
 <div style="display: inline_block"><br>
-<img align="center" alt="JP-AWS" height="100" width="100" src="https://github.com/joaolanzilotti/joaolanzilotti/assets/71307203/ca2cc041-6ad1-4fcf-aa43-497b357874d2">
 <img align="center" alt="JP-JAVA" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/226/226777.png">
 <img align="center" alt="JP-Spring" height="40" width="40" src="https://img.icons8.com/?size=512&id=90519&format=png">
 <img align="center" alt="JP-Thymeleaf" height="40" width="40" src="https://img.icons8.com/?size=512&id=iWpVsSkAqPpZ&format=png">
@@ -23,6 +22,9 @@
 <img align="center" alt="JP-sql" height="40" width="30" src="https://raw.githubusercontent.com/toreylittlefield/HackerRank/master/Badges%20and%20Images/SQL%20Icon.png">
 <img align="center" alt="JP-mongoDB" height="40" width="50" src="https://img.icons8.com/?size=512&id=74402&format=png">
 <img align="center" alt="JP-Linux" height="40" width="40" src="https://img.icons8.com/color/256/linux.png">
+	<br>
+	<img align="center" alt="JP-AWS" height="120" width="120" src="https://github.com/joaolanzilotti/joaolanzilotti/assets/71307203/ca2cc041-6ad1-4fcf-aa43-497b357874d2">
+<img align="center" alt="JP-OracleCloud" height="120" width="210" src="https://github.com/joaolanzilotti/joaolanzilotti/assets/71307203/4e771a10-723a-44b7-abc9-a0da21ddf2a0">
 </div>
 
 ##
